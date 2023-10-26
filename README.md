@@ -1,26 +1,11 @@
-# React-Data-Export
-
-##### :warning: A complete re-write is coming soon (we won't need xlsx package anymore (It will be backward compatible):warning: 
-
-## :new: I am re-writing complete excel api in JavaScript, please consider contributing or putting your ideas here https://github.com/securedeveloper/javascript-excel (After finishing will update this library)
-(:exclamation::exclamation::exclamation:The purpose of having a new library is that open source libraries either does not support styling and rest functionality in excel or they are too heavy to  consider)
-
-[![npm version](https://badge.fury.io/js/react-data-export.svg)](https://badge.fury.io/js/react-data-export)
-[![dependencies Status](https://david-dm.org/securedeveloper/react-data-export/status.svg)](https://david-dm.org/securedeveloper/react-data-export)
-[![devDependencies Status](https://david-dm.org/securedeveloper/react-data-export/dev-status.svg)](https://david-dm.org/securedeveloper/react-data-export?type=dev)
-[![Build Status](https://travis-ci.org/securedeveloper/react-data-export.svg?branch=master)](https://travis-ci.org/securedeveloper/react-data-export)
-[![Vulnerabilities](https://snyk.io/test/github/securedeveloper/react-data-export/badge.svg)](https://snyk.io/test/github/securedeveloper/react-data-export)
-[![Coverage Status](https://coveralls.io/repos/github/securedeveloper/react-data-export/badge.svg?branch=master)](https://coveralls.io/github/securedeveloper/react-data-export?branch=master)
-
-
-A data export library built with and for [React](http://facebook.github.io/react/index.html). 
-
+# React-Data-Xlsx
+##### :warning: This library only for testing :warning: 
 ## Installation
 
-With [npm](https://www.npmjs.org/package/react-data-export):
+With [npm](https://www.npmjs.com/package/react-export-xlsx):
 
 ```sh
-npm install react-data-export --save
+npm install react-export-xlsx --save
 ```
 
 ## Code Examples
